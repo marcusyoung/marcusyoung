@@ -12,15 +12,6 @@ When I'm not doing that, I'm revisiting my interest in 8-bit computing — from 
 programs on a ZX81 in 1982 to learning Z80 assembly on a Spectrum Next today, via a detour
 through breadboard CPUs. I write about it at [Back to BASIC](https://backtobasic.dev).
 
-### Open-source projects
-
-- **[otpr](https://github.com/marcusyoung/otpr)** — R package for querying the OpenTripPlanner REST API
-- **[otp-tutorial](https://github.com/marcusyoung/otp-tutorial)** — Introductory tutorial for setting up an OpenTripPlanner instance
-- **[station-demand-forecasting-tool](https://github.com/marcusyoung/station-demand-forecasting-tool)** — Rail demand forecasting tool for proposed new GB stations
-- **[gbtraffic](https://github.com/marcusyoung/gbtraffic)** — R Shiny app for exploring GB traffic data
-- **[pgRouting](https://github.com/marcusyoung/pgRouting)** — Scripts and tutorials for network routing with PostgreSQL/PostGIS
-- **[beat-the-trend](https://github.com/marcusyoung/beat-the-trend)** — R Shiny bus company simulation for teaching demand elasticities
-
 ### Current focus
 
 Life cycle cost analysis and whole-system optimisation modelling for railway noise and vibration
