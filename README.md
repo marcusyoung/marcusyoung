@@ -14,17 +14,12 @@ through breadboard CPUs. I write about it at [Back to BASIC](https://backtobasic
 
 ### Open-source projects
 
-- **[station-demand-forecasting-tool](https://github.com/marcusyoung/station-demand-forecasting-tool)**
-  — Open-source tool for forecasting rail demand at proposed new stations in Great Britain
+- **[otpr](https://github.com/marcusyoung/otpr)** — R package for querying the OpenTripPlanner REST API
+- **[otp-tutorial](https://github.com/marcusyoung/otp-tutorial)** — Introductory tutorial for setting up an OpenTripPlanner instance
+- **[station-demand-forecasting-tool](https://github.com/marcusyoung/station-demand-forecasting-tool)** — Rail demand forecasting tool for proposed new GB stations
 - **[gbtraffic](https://github.com/marcusyoung/gbtraffic)** — R Shiny app for exploring GB traffic data
-- **[otpr](https://github.com/marcusyoung/otpr)** — R package wrapping the OpenTripPlanner REST API
-  for multi-modal routing and travel time analysis
-- **[otp-tutorial](https://github.com/marcusyoung/otp-tutorial)** — Introductory tutorial for setting
-  up and querying an OpenTripPlanner instance; widely used in teaching and research
-- **[pgRouting](https://github.com/marcusyoung/pgRouting)** — Scripts and tutorials for network routing
-  with PostgreSQL/PostGIS
-- **[beat_the_trend](https://github.com/marcusyoung/beat_the_trend)** — R Shiny bus company simulation
-  game for teaching demand elasticities
+- **[pgRouting](https://github.com/marcusyoung/pgRouting)** — Scripts and tutorials for network routing with PostgreSQL/PostGIS
+- **[beat_the_trend](https://github.com/marcusyoung/beat_the_trend)** — R Shiny bus company simulation for teaching demand elasticities
 
 ### Current focus
 
