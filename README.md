@@ -19,7 +19,7 @@ through breadboard CPUs. I write about it at [Back to BASIC](https://backtobasic
 - **[station-demand-forecasting-tool](https://github.com/marcusyoung/station-demand-forecasting-tool)** — Rail demand forecasting tool for proposed new GB stations
 - **[gbtraffic](https://github.com/marcusyoung/gbtraffic)** — R Shiny app for exploring GB traffic data
 - **[pgRouting](https://github.com/marcusyoung/pgRouting)** — Scripts and tutorials for network routing with PostgreSQL/PostGIS
-- **[beat_the_trend](https://github.com/marcusyoung/beat_the_trend)** — R Shiny bus company simulation for teaching demand elasticities
+- **[beat-the-trend](https://github.com/marcusyoung/beat-the-trend)** — R Shiny bus company simulation for teaching demand elasticities
 
 ### Current focus
 
