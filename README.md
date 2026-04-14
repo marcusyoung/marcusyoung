@@ -30,11 +30,3 @@ through breadboard CPUs. I write about it at [Back to BASIC](https://backtobasic
 
 Life cycle cost analysis and whole-system optimisation modelling for railway noise and vibration
 interventions, as part of the EU Horizon [QuieterRail](https://quieterrail.eu) project.
-
-### Get in touch
-
-- 🌐 [marcusyoung.co.uk](https://www.marcusyoung.co.uk)
-- 📧 M.A.Young@soton.ac.uk
-- 🔬 ORCID: [0000-0003-4627-1116](https://orcid.org/0000-0003-4627-1116)
-- 🐘 [Mastodon](https://fediscience.org/@marcus)
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcusy)
